@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 33290e0a18a4b1d42ac5e5d72d0b1081
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 134754303986455716
+    second: kruger_walk01_0
+  - first:
+      213: 2444319191163999419
+    second: kruger_walk01_1
+  - first:
+      213: 3133375260946368190
+    second: kruger_walk01_2
+  - first:
+      213: -1343223278894533608
+    second: kruger_walk01_3
+  - first:
+      213: -4075489266277882661
+    second: kruger_walk01_4
+  - first:
+      213: 3029618296703758292
+    second: kruger_walk01_5
+  - first:
+      213: 356794505646757679
+    second: kruger_walk01_6
+  - first:
+      213: -3749721747173491677
+    second: kruger_walk01_7
+  - first:
+      213: 4767369372576658703
+    second: kruger_walk01_8
+  - first:
+      213: -8126949783268746519
+    second: kruger_walk01_9
+  - first:
+      213: 6602830022272328026
+    second: kruger_walk01_10
+  - first:
+      213: -7083178235322138872
+    second: kruger_walk01_11
+  - first:
+      213: -9116948678012382981
+    second: kruger_walk01_12
+  - first:
+      213: -4570561964897032834
+    second: kruger_walk01_13
+  - first:
+      213: 4478502857850540135
+    second: kruger_walk01_14
+  - first:
+      213: -8918771577966077770
+    second: kruger_walk01_15
+  - first:
+      213: 6440429158564573858
+    second: kruger_walk01_16
+  - first:
+      213: -7861477641091176237
+    second: kruger_walk01_17
+  - first:
+      213: -2046501687634351663
+    second: kruger_walk01_18
+  - first:
+      213: -805261956765157731
+    second: kruger_walk01_19
+  - first:
+      213: 6726678525326900850
+    second: kruger_walk01_20
+  - first:
+      213: -539166320385131831
+    second: kruger_walk01_21
+  - first:
+      213: -3978688323207327186
+    second: kruger_walk01_22
+  - first:
+      213: -4637029709419861686
+    second: kruger_walk01_23
+  - first:
+      213: 3400919456422305100
+    second: kruger_walk01_24
+  - first:
+      213: -4500462989716255099
+    second: kruger_walk01_25
+  - first:
+      213: 354369768810874037
+    second: kruger_walk01_26
+  - first:
+      213: 7646085241243483994
+    second: kruger_walk01_27
+  - first:
+      213: 253149653065219816
+    second: kruger_walk01_28
+  - first:
+      213: -5938891738059135328
+    second: kruger_walk01_29
+  - first:
+      213: 5723784260157198249
+    second: kruger_walk01_30
+  - first:
+      213: 7070895350595310091
+    second: kruger_walk01_31
+  - first:
+      213: 4765016857664392597
+    second: kruger_walk01_32
+  - first:
+      213: -3857573662774124628
+    second: kruger_walk01_33
+  - first:
+      213: -7795539711022504794
+    second: kruger_walk01_34
+  - first:
+      213: -6770849011203295273
+    second: kruger_walk01_35
+  - first:
+      213: 3213622180991753967
+    second: kruger_walk01_36
+  - first:
+      213: -2467270621870748295
+    second: kruger_walk01_37
+  - first:
+      213: 5754963954217198879
+    second: kruger_walk01_38
+  - first:
+      213: 370892916285043308
+    second: kruger_walk01_39
+  - first:
+      213: 4527740928621139445
+    second: kruger_walk01_40
+  - first:
+      213: -8624815707027833008
+    second: kruger_walk01_41
+  - first:
+      213: 7542062099637741606
+    second: kruger_walk01_42
+  - first:
+      213: 5526331460473793027
+    second: kruger_walk01_43
+  - first:
+      213: -2235807516278096860
+    second: kruger_walk01_44
+  - first:
+      213: 6747299312947029019
+    second: kruger_walk01_45
+  - first:
+      213: 8875482279301243151
+    second: kruger_walk01_46
+  - first:
+      213: -108767493487030414
+    second: kruger_walk01_47
+  - first:
+      213: 7020203826074369800
+    second: kruger_walk01_48
+  - first:
+      213: -808578149797587678
+    second: kruger_walk01_49
+  - first:
+      213: -5044424196694395869
+    second: kruger_walk01_50
+  - first:
+      213: -8104382246683659603
+    second: kruger_walk01_51
+  - first:
+      213: -370009913819199528
+    second: kruger_walk01_52
+  - first:
+      213: -7882195547253528676
+    second: kruger_walk01_53
+  - first:
+      213: -817110706840303252
+    second: kruger_walk01_54
+  - first:
+      213: 4807408337946642977
+    second: kruger_walk01_55
+  - first:
+      213: -4906998265967925566
+    second: kruger_walk01_56
+  - first:
+      213: 7326886371365070816
+    second: kruger_walk01_57
+  - first:
+      213: 1750432490312590020
+    second: kruger_walk01_58
+  - first:
+      213: 3787020761838330494
+    second: kruger_walk01_59
+  - first:
+      213: -7451029454145170639
+    second: kruger_walk01_60
+  - first:
+      213: -6355932019882475153
+    second: kruger_walk01_61
+  - first:
+      213: 8830307772403107714
+    second: kruger_walk01_62
+  - first:
+      213: 8344076229588780697
+    second: kruger_walk01_63
+  - first:
+      213: 8435401567743592604
+    second: kruger_walk01_64
+  - first:
+      213: 3332727134117566745
+    second: kruger_walk01_0
+  - first:
+      213: 2746269206365870715
+    second: kruger_walk01_1
+  - first:
+      213: -2569012371490858983
+    second: kruger_walk01_2
+  - first:
+      213: -1063356992592659699
+    second: kruger_walk01_3
+  - first:
+      213: 3079274741461486168
+    second: kruger_walk01_4
+  - first:
+      213: -3651747685623730846
+    second: kruger_walk01_5
+  - first:
+      213: -623441531261971399
+    second: kruger_walk01_6
+  - first:
+      213: -7584275404512741509
+    second: kruger_walk01_7
+  - first:
+      213: 1062701267983372644
+    second: kruger_walk01_8
+  - first:
+      213: 5284094523698386690
+    second: kruger_walk01_9
+  - first:
+      213: 3936071891101934836
+    second: kruger_walk01_10
+  - first:
+      213: 3737207979331386823
+    second: kruger_walk01_11
+  - first:
+      213: 735294915216380163
+    second: kruger_walk01_12
+  - first:
+      213: 580103043070997360
+    second: kruger_walk01_13
+  - first:
+      213: -7636064668075580567
+    second: kruger_walk01_14
+  - first:
+      213: -6398125800618595248
+    second: kruger_walk01_15
+  - first:
+      213: 1934866263966447752
+    second: kruger_walk01_16
+  - first:
+      213: -7877949699671117931
+    second: kruger_walk01_17
+  - first:
+      213: -4323684455364773954
+    second: kruger_walk01_18
+  - first:
+      213: 1749084015454545740
+    second: kruger_walk01_19
+  - first:
+      213: 7974738790900643093
+    second: kruger_walk01_20
+  - first:
+      213: -2392809524447113951
+    second: kruger_walk01_21
+  - first:
+      213: -5141474192391952268
+    second: kruger_walk01_22
+  - first:
+      213: 3929053439161752565
+    second: kruger_walk01_23
+  - first:
+      213: 6204815764647824942
+    second: kruger_walk01_24
+  - first:
+      213: 1863208602126256697
+    second: kruger_walk01_25
+  - first:
+      213: -5600824081109216167
+    second: kruger_walk01_26
+  - first:
+      213: -5383734451100425376
+    second: kruger_walk01_27
+  - first:
+      213: 5134083229934745826
+    second: kruger_walk01_28
+  - first:
+      213: -9045444258134805927
+    second: kruger_walk01_29
+  - first:
+      213: -3893950095996497046
+    second: kruger_walk01_30
+  - first:
+      213: 1588522214150507649
+    second: kruger_walk01_31
+  - first:
+      213: -9047556781946904192
+    second: kruger_walk01_32
+  - first:
+      213: -1382924183432067218
+    second: kruger_walk01_33
+  - first:
+      213: -6394724951316457619
+    second: kruger_walk01_34
+  - first:
+      213: -5727878514871076767
+    second: kruger_walk01_35
+  - first:
+      213: 850295771960068554
+    second: kruger_walk01_36
+  - first:
+      213: -9095694078299266314
+    second: kruger_walk01_37
+  - first:
+      213: -6501165130822220235
+    second: kruger_walk01_38
+  - first:
+      213: -2672072969779884959
+    second: kruger_walk01_39
+  - first:
+      213: -5526291334478398112
+    second: kruger_walk01_40
+  - first:
+      213: 2422926980804172847
+    second: kruger_walk01_41
+  - first:
+      213: -2494483707703595132
+    second: kruger_walk01_42
+  - first:
+      213: -3732355999083840735
+    second: kruger_walk01_43
+  - first:
+      213: 8454410890449158692
+    second: kruger_walk01_44
+  - first:
+      213: 6420404284455759357
+    second: kruger_walk01_45
+  - first:
+      213: 3314805625510827410
+    second: kruger_walk01_46
+  - first:
+      213: -2759109247862646573
+    second: kruger_walk01_47
+  - first:
+      213: -4409659651133462213
+    second: kruger_walk01_48
+  - first:
+      213: -8748521319728531324
+    second: kruger_walk01_49
+  - first:
+      213: 1905218334430398753
+    second: kruger_walk01_50
+  - first:
+      213: -2170735830335799361
+    second: kruger_walk01_51
+  - first:
+      213: -576875744335485453
+    second: kruger_walk01_52
+  - first:
+      213: 777488136361570456
+    second: kruger_walk01_53
+  - first:
+      213: -8045420946032298982
+    second: kruger_walk01_54
+  - first:
+      213: -2520578642861861507
+    second: kruger_walk01_55
+  - first:
+      213: 3767592595991004730
+    second: kruger_walk01_56
+  - first:
+      213: 8912592078931139282
+    second: kruger_walk01_57
+  - first:
+      213: -8497459400179758921
+    second: kruger_walk01_58
+  - first:
+      213: -7693913602037638146
+    second: kruger_walk01_59
+  - first:
+      213: -4446850522170862521
+    second: kruger_walk01_60
+  - first:
+      213: 7825454486342757393
+    second: kruger_walk01_61
+  - first:
+      213: 256485551056241683
+    second: kruger_walk01_62
+  - first:
+      213: -4593798074134336547
+    second: kruger_walk01_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.375}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kruger_walk01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9191262cba9304e20800000000000000
+      internalID: 3332727134117566745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a1807fa45bc1620800000000000000
+      internalID: 2746269206365870715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91814bdfbd8095cd0800000000000000
+      internalID: -2569012371490858983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b361bf2723e31f0800000000000000
+      internalID: -1063356992592659699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a05aa0018cbba20800000000000000
+      internalID: 3079274741461486168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dea05e3d2625dc0800000000000000
+      internalID: -3651747685623730846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93497eefa371957f0800000000000000
+      internalID: -623441531261971399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77394be3bd3fb690800000000000000
+      internalID: -7584275404512741509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461918c3c297fbe00800000000000000
+      internalID: 1062701267983372644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20711a419ffd45940800000000000000
+      internalID: 5284094523698386690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e78fd78cbf9630800000000000000
+      internalID: 3936071891101934836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7dcb4bda3dd330800000000000000
+      internalID: 3737207979331386823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019f9264da443a00800000000000000
+      internalID: 735294915216380163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073be57e4a0fc0800800000000000000
+      internalID: 580103043070997360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a17954af370690800000000000000
+      internalID: -7636064668075580567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cedd9ab7a4537a0800000000000000
+      internalID: -6398125800618595248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887b9f9d960ada10800000000000000
+      internalID: 1934866263966447752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f25b0cc76eba290800000000000000
+      internalID: -7877949699671117931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ba1d45ef2ff3c0800000000000000
+      internalID: -4323684455364773954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476b7f15aef54810800000000000000
+      internalID: 1749084015454545740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153928ada6fbae60800000000000000
+      internalID: 7974738790900643093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d88284a680bced0800000000000000
+      internalID: -2392809524447113951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a3a47670d5a8b0800000000000000
+      internalID: -5141474192391952268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb53c0394dc68630800000000000000
+      internalID: 3929053439161752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec39c301feb1650800000000000000
+      internalID: 6204815764647824942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a00381a527bd910800000000000000
+      internalID: 1863208602126256697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95418043c20e542b0800000000000000
+      internalID: -5600824081109216167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063602d7a022945b0800000000000000
+      internalID: -5383734451100425376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8fc8ffe7def3740800000000000000
+      internalID: 5134083229934745826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952374e3f50287280800000000000000
+      internalID: -9045444258134805927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d70bc409e5f9c0800000000000000
+      internalID: -3893950095996497046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c024499809b0610800000000000000
+      internalID: 1588522214150507649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e0e6fa0f907280800000000000000
+      internalID: -9047556781946904192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670c3f38cddecce0800000000000000
+      internalID: -1382924183432067218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679478998f5147a0800000000000000
+      internalID: -6394724951316457619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168748c96dc7280b0800000000000000
+      internalID: -5727878514871076767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac942b1ef7bdccb00800000000000000
+      internalID: 850295771960068554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f229554d6a95c180800000000000000
+      internalID: -9095694078299266314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368f2712c837c5a0800000000000000
+      internalID: -6501165130822220235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc85e8ac3eaead0800000000000000
+      internalID: -2672072969779884959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d78139f4bae43b0800000000000000
+      internalID: -5526291334478398112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cda877047ff9120800000000000000
+      internalID: 2422926980804172847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe350c840d16dd0800000000000000
+      internalID: -2494483707703595132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b3f436ef1043cc0800000000000000
+      internalID: -3732355999083840735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228a6659e9145570800000000000000
+      internalID: 8454410890449158692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda1611eabd91950800000000000000
+      internalID: 6420404284455759357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951a00672e800e20800000000000000
+      internalID: 3314805625510827410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d6a8e1cca5b9d0800000000000000
+      internalID: -2759109247862646573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3921d129edbdc2c0800000000000000
+      internalID: -4409659651133462213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48836ab1632079680800000000000000
+      internalID: -8748521319728531324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129094b1bf1b07a10800000000000000
+      internalID: 1905218334430398753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3f9b634fffd1e0800000000000000
+      internalID: -2170735830335799361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5285321968ef7f0800000000000000
+      internalID: -576875744335485453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89079e837513aca00800000000000000
+      internalID: 777488136361570456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f14ba64ce85090800000000000000
+      internalID: -8045420946032298982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7558c3341b150dd0800000000000000
+      internalID: -2520578642861861507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368f66218d294430800000000000000
+      internalID: 3767592595991004730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da96ac5643efab70800000000000000
+      internalID: 8912592078931139282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84bfe62b5f21a80800000000000000
+      internalID: -8497459400179758921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1002d75ab93590800000000000000
+      internalID: -7693913602037638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744deb0b20d9942c0800000000000000
+      internalID: -4446850522170862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6270f469999c60800000000000000
+      internalID: 7825454486342757393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144ab0ff383f8300800000000000000
+      internalID: 256485551056241683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_walk01_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb69559dfc8f30c0800000000000000
+      internalID: -4593798074134336547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

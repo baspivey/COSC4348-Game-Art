@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3978075624333783456
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3978075624333783459}
+  - component: {fileID: 3978075624333783458}
+  - component: {fileID: 3978075624333783457}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3978075624333783459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3978075624333783456}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &3978075624333783458
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3978075624333783456}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0.7
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &3978075624333783457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3978075624333783456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb93517b5e50c4971b5c53c9ca8b7cdc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: HealthPickup
+    clip: {fileID: 8300000, guid: 9f8e424a3d1804da683b7989f464542b, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: HealthBoost
+    clip: {fileID: 8300000, guid: 54ecb3ed8b5004ef0a902d02d764aaed, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Soundtrack
+    clip: {fileID: 8300000, guid: 2630b71875ed14b90926ce39e67bbb4e, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.425
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: CoinPickup
+    clip: {fileID: 8300000, guid: 8feabc24daa1e4f57a4a62e01e181425, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 0.4
+    source: {fileID: 0}
+    loop: 0
+  - name: SpeedBoost
+    clip: {fileID: 8300000, guid: 2d0d8b7adc6db43d5a0a13818408d3bc, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: EnemyAttack1
+    clip: {fileID: 8300000, guid: 343e92f3636090a47a0f9477177d616a, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.383
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: LaserShot
+    clip: {fileID: 8300000, guid: e4637f1dcdbc34520932ed250f89c802, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: MCDeath1
+    clip: {fileID: 8300000, guid: 560264d2b06ad5041a355bdba5333dad, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: MCGrunt1
+    clip: {fileID: 8300000, guid: 67e23ce42f665fc478d24f6cb57c42b7, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: MCGrunt2
+    clip: {fileID: 8300000, guid: 3de576a16432ef24fbf9142bac3c9df1, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: EnemyDeath
+    clip: {fileID: 8300000, guid: 2d2b76b984c6f8c4790f2fd7d3c3b4e7, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ChestOpen
+    clip: {fileID: 8300000, guid: ea721c6f925b141608627cd14d71551d, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: KeyPickup
+    clip: {fileID: 8300000, guid: 7e0927f6a1aba5b4e85b1609754b4e3b, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Gunshot
+    clip: {fileID: 8300000, guid: 1d17c5ebd6bc348b797823129a7c2bd1, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Door
+    clip: {fileID: 8300000, guid: c16143b86b0d097459190ee043334077, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: EnemyGrunt
+    clip: {fileID: 8300000, guid: 49c34326e588f134085e5991ad038719, type: 3}
+    audioMixerGroup: {fileID: 24300002, guid: 97e4664ce0dce4d8ea9462c986469a41, type: 2}
+    vol: 0.745
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  soundSlider: {fileID: 0}

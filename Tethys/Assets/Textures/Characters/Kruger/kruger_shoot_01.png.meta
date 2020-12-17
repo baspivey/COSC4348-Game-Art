@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 52bdb11146accbf41b0a6f5e67c8bbd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8452342844431844747
+    second: kruger_shoot_01_0
+  - first:
+      213: -2368664327324079181
+    second: kruger_shoot_01_1
+  - first:
+      213: -5759880858567377416
+    second: kruger_shoot_01_2
+  - first:
+      213: -2505716543411318594
+    second: kruger_shoot_01_3
+  - first:
+      213: 1945427457295784718
+    second: kruger_shoot_01_4
+  - first:
+      213: -7919734490352356547
+    second: kruger_shoot_01_5
+  - first:
+      213: 226763347493139331
+    second: kruger_shoot_01_6
+  - first:
+      213: -9178994564963686363
+    second: kruger_shoot_01_7
+  - first:
+      213: 516371125644850443
+    second: kruger_shoot_01_8
+  - first:
+      213: 8664491104610726411
+    second: kruger_shoot_01_9
+  - first:
+      213: -2433923671835314803
+    second: kruger_shoot_01_10
+  - first:
+      213: -2584247539760739053
+    second: kruger_shoot_01_11
+  - first:
+      213: -1278421967225288432
+    second: kruger_shoot_01_12
+  - first:
+      213: -5371394250133799810
+    second: kruger_shoot_01_13
+  - first:
+      213: 7337640950911230329
+    second: kruger_shoot_01_14
+  - first:
+      213: 6732535688267068270
+    second: kruger_shoot_01_15
+  - first:
+      213: 8234520941048792493
+    second: kruger_shoot_01_16
+  - first:
+      213: 8909759407817017661
+    second: kruger_shoot_01_17
+  - first:
+      213: 8554411696722387486
+    second: kruger_shoot_01_18
+  - first:
+      213: -8666685738783479950
+    second: kruger_shoot_01_19
+  - first:
+      213: 7657635705104350263
+    second: kruger_shoot_01_20
+  - first:
+      213: 6391322330149427974
+    second: kruger_shoot_01_21
+  - first:
+      213: 8531061262356494438
+    second: kruger_shoot_01_22
+  - first:
+      213: 365329364543058296
+    second: kruger_shoot_01_23
+  - first:
+      213: 7731187846644339219
+    second: kruger_shoot_01_24
+  - first:
+      213: -8499729939613411775
+    second: kruger_shoot_01_25
+  - first:
+      213: 1868002439443696198
+    second: kruger_shoot_01_26
+  - first:
+      213: -3596016911395372592
+    second: kruger_shoot_01_27
+  - first:
+      213: 7300352445016187318
+    second: kruger_shoot_01_28
+  - first:
+      213: 7886685742233797100
+    second: kruger_shoot_01_29
+  - first:
+      213: -2151347101183281272
+    second: kruger_shoot_01_30
+  - first:
+      213: -8537311185774501563
+    second: kruger_shoot_01_31
+  - first:
+      213: -2925624910122978891
+    second: kruger_shoot_01_32
+  - first:
+      213: -2259049307814806003
+    second: kruger_shoot_01_33
+  - first:
+      213: 3745873907644960094
+    second: kruger_shoot_01_34
+  - first:
+      213: 4022946837269646008
+    second: kruger_shoot_01_35
+  - first:
+      213: -3231176587273863007
+    second: kruger_shoot_01_36
+  - first:
+      213: 1008445949936123975
+    second: kruger_shoot_01_37
+  - first:
+      213: -775692471653937034
+    second: kruger_shoot_01_38
+  - first:
+      213: 2628439271663831929
+    second: kruger_shoot_01_39
+  - first:
+      213: 8064216147963364971
+    second: kruger_shoot_01_0
+  - first:
+      213: -1176014601765335264
+    second: kruger_shoot_01_1
+  - first:
+      213: 8529025690009302599
+    second: kruger_shoot_01_2
+  - first:
+      213: 9015569289076319106
+    second: kruger_shoot_01_3
+  - first:
+      213: 7615722160004765984
+    second: kruger_shoot_01_4
+  - first:
+      213: 1668301476087711778
+    second: kruger_shoot_01_5
+  - first:
+      213: 2966592958338879126
+    second: kruger_shoot_01_6
+  - first:
+      213: 239725916374698404
+    second: kruger_shoot_01_7
+  - first:
+      213: 6749248713268511968
+    second: kruger_shoot_01_8
+  - first:
+      213: -3536457593852816633
+    second: kruger_shoot_01_9
+  - first:
+      213: -3577504693508450115
+    second: kruger_shoot_01_10
+  - first:
+      213: 4355065645788093791
+    second: kruger_shoot_01_11
+  - first:
+      213: 4798037131824646009
+    second: kruger_shoot_01_12
+  - first:
+      213: 5614498780372856766
+    second: kruger_shoot_01_13
+  - first:
+      213: -310955399710758691
+    second: kruger_shoot_01_14
+  - first:
+      213: -4444821999141161972
+    second: kruger_shoot_01_15
+  - first:
+      213: -5493031272754457402
+    second: kruger_shoot_01_16
+  - first:
+      213: 3525116462863509332
+    second: kruger_shoot_01_17
+  - first:
+      213: 8265227045058458409
+    second: kruger_shoot_01_18
+  - first:
+      213: -7868766007935975079
+    second: kruger_shoot_01_19
+  - first:
+      213: 892176257033650021
+    second: kruger_shoot_01_20
+  - first:
+      213: -4615827754280718393
+    second: kruger_shoot_01_21
+  - first:
+      213: 7034306768321829164
+    second: kruger_shoot_01_22
+  - first:
+      213: -5901615597783744981
+    second: kruger_shoot_01_23
+  - first:
+      213: 6490854632841534749
+    second: kruger_shoot_01_24
+  - first:
+      213: -6265123695899000200
+    second: kruger_shoot_01_25
+  - first:
+      213: -1425416122932689533
+    second: kruger_shoot_01_26
+  - first:
+      213: -8325772179067594994
+    second: kruger_shoot_01_27
+  - first:
+      213: -981102077614358810
+    second: kruger_shoot_01_28
+  - first:
+      213: -7091508348318996551
+    second: kruger_shoot_01_29
+  - first:
+      213: 7322436647951965751
+    second: kruger_shoot_01_30
+  - first:
+      213: 3750040921883413761
+    second: kruger_shoot_01_31
+  - first:
+      213: 3694703645221409620
+    second: kruger_shoot_01_32
+  - first:
+      213: -6762397315956164873
+    second: kruger_shoot_01_33
+  - first:
+      213: -6703642177567801428
+    second: kruger_shoot_01_34
+  - first:
+      213: -5657356117968634302
+    second: kruger_shoot_01_35
+  - first:
+      213: 6604965070364799979
+    second: kruger_shoot_01_36
+  - first:
+      213: 4147749186065822870
+    second: kruger_shoot_01_37
+  - first:
+      213: 1777462649961656391
+    second: kruger_shoot_01_38
+  - first:
+      213: 7066681541355472916
+    second: kruger_shoot_01_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.375}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kruger_shoot_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66435b4cd9d9ef60800000000000000
+      internalID: 8064216147963364971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fca1353f4fdafe0800000000000000
+      internalID: -1176014601765335264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467f252daf2d5670800000000000000
+      internalID: 8529025690009302599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a05b708cbd1d70800000000000000
+      internalID: 9015569289076319106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029972764fa70b960800000000000000
+      internalID: 7615722160004765984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c77c7a5ff62710800000000000000
+      internalID: 1668301476087711778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec6f2f3947b2920800000000000000
+      internalID: 2966592958338879126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a908f8637da35300800000000000000
+      internalID: 239725916374698404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c12712f52aad50800000000000000
+      internalID: 6749248713268511968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039b2b2e8afbeec0800000000000000
+      internalID: -3536457593852816633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d2298f662a5ec0800000000000000
+      internalID: -3577504693508450115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd4b6712d407c30800000000000000
+      internalID: 4355065645788093791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ca8da95d069240800000000000000
+      internalID: 4798037131824646009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfecf3d4e4baed40800000000000000
+      internalID: 5614498780372856766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8204326b34fabf0800000000000000
+      internalID: -310955399710758691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04795301f1d052c0800000000000000
+      internalID: -4444821999141161972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4db572925d4c3b0800000000000000
+      internalID: -5493031272754457402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576cd00fbabbe030800000000000000
+      internalID: 3525116462863509332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92339a8d43cf3b270800000000000000
+      internalID: 8265227045058458409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ce4c91078cc290800000000000000
+      internalID: -7868766007935975079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f378d2495a16c00800000000000000
+      internalID: 892176257033650021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf65b9fc1941ffb0800000000000000
+      internalID: -4615827754280718393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d2f68cb0ee9160800000000000000
+      internalID: 7034306768321829164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef135c1ef391ea0800000000000000
+      internalID: -5901615597783744981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd73706e5241a50800000000000000
+      internalID: 6490854632841534749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ce00513fcd09a0800000000000000
+      internalID: -6265123695899000200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858b7f9697e73ce0800000000000000
+      internalID: -1425416122932689533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0798d1a05ae47c80800000000000000
+      internalID: -8325772179067594994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef567cbdc6262f0800000000000000
+      internalID: -981102077614358810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7aab8cab6e59d90800000000000000
+      internalID: -7091508348318996551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9a7bd5558e9560800000000000000
+      internalID: 7322436647951965751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0a029952da0430800000000000000
+      internalID: 3750040921883413761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45353c3d369364330800000000000000
+      internalID: 3694703645221409620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b06848732722a0800000000000000
+      internalID: -6762397315956164873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafbeb8f4f0e7f2a0800000000000000
+      internalID: -6703642177567801428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb89ca5980d71b0800000000000000
+      internalID: -5657356117968634302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f4f4acbc89ab50800000000000000
+      internalID: 6604965070364799979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947ed4b8e3cf8930800000000000000
+      internalID: 4147749186065822870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403d7cdcd0daa810800000000000000
+      internalID: 1777462649961656391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kruger_shoot_01_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188d45cb65e11260800000000000000
+      internalID: 7066681541355472916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

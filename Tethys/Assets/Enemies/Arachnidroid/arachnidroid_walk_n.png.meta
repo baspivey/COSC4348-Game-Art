@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 27b0dcfea69508a4199414a58600b2da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4718743247075607381
+    second: arachnidroid_walk_n_2
+  - first:
+      213: -182481073748122588
+    second: arachnidroid_walk_n_8
+  - first:
+      213: 806254295937226981
+    second: arachnidroid_walk_n_2
+  - first:
+      213: 2425378036523912353
+    second: arachnidroid_walk_n_8
+  - first:
+      213: -3438757440609565171
+    second: arachnidroid_walk_n_8
+  - first:
+      213: -1934105090364865657
+    second: arachnidroid_walk_n_8
+  - first:
+      213: 4497750472095629226
+    second: arachnidroid_walk_n_0
+  - first:
+      213: -3846509409008962593
+    second: arachnidroid_walk_n_1
+  - first:
+      213: 9029188132827067513
+    second: arachnidroid_walk_n_8
+  - first:
+      213: 7446141309256824639
+    second: arachnidroid_walk_n_6
+  - first:
+      213: -1895749953561757514
+    second: arachnidroid_walk_n_7
+  - first:
+      213: -762933628362545999
+    second: arachnidroid_walk_n_9
+  - first:
+      213: -8906256219688961084
+    second: arachnidroid_walk_n_12
+  - first:
+      213: -6607029486545804604
+    second: arachnidroid_walk_n_13
+  - first:
+      213: 7306119084414840735
+    second: arachnidroid_walk_n_14
+  - first:
+      213: 8124199388674643973
+    second: arachnidroid_walk_n_15
+  - first:
+      213: -1501730295850685864
+    second: arachnidroid_walk_n_16
+  - first:
+      213: -3328722869145283433
+    second: arachnidroid_walk_n_17
+  - first:
+      213: 384763467057578284
+    second: arachnidroid_walk_n_18
+  - first:
+      213: 6306001189325562475
+    second: arachnidroid_walk_n_19
+  - first:
+      213: -5072754525235842007
+    second: arachnidroid_walk_n_20
+  - first:
+      213: 719185016454112813
+    second: arachnidroid_walk_n_21
+  - first:
+      213: 7289278128299318306
+    second: arachnidroid_walk_n_22
+  - first:
+      213: -1956978361770232609
+    second: arachnidroid_walk_n_23
+  - first:
+      213: 5101174246925324350
+    second: arachnidroid_walk_n_24
+  - first:
+      213: 8885036912219460946
+    second: arachnidroid_walk_n_25
+  - first:
+      213: 5357778296200413678
+    second: arachnidroid_walk_n_26
+  - first:
+      213: -2945732649797760403
+    second: arachnidroid_walk_n_27
+  - first:
+      213: -7363688449278458026
+    second: arachnidroid_walk_n_28
+  - first:
+      213: -3856383199722298012
+    second: arachnidroid_walk_n_29
+  - first:
+      213: 1342101430631446757
+    second: arachnidroid_walk_n_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.375}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 378
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55307347bf75c7140800000000000000
+      internalID: 4718743247075607381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 380
+        width: 187
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e2052e62b77df0800000000000000
+      internalID: -182481073748122588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 380
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acca09597ca8a120800000000000000
+      internalID: 2425378036523912353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 381
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d064cbbb3541740d0800000000000000
+      internalID: -3438757440609565171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 376
+        width: 187
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783078aeaada825e0800000000000000
+      internalID: -1934105090364865657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 369
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaffa9969383b6e30800000000000000
+      internalID: 4497750472095629226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 376
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b2da72147e9ac0800000000000000
+      internalID: -3846509409008962593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_6
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 376
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377d95c112065760800000000000000
+      internalID: 7446141309256824639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 375
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8fcfa1671f0b5e0800000000000000
+      internalID: -1895749953561757514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arachnidroid_walk_n_9
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 372
+        width: 180
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4204e38e38965f0800000000000000
+      internalID: -762933628362545999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
